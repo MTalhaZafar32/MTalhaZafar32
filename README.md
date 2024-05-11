@@ -4,7 +4,6 @@ Here are some ideas to get you started:
 - 🥈 Hackathon Winner **[@lablab](https://lablab.ai/event/llama-2-hackathon-with-clarifai/team-fingu/fingu-your-own-personal-finance-assistant)**
 - 🔭 passionate about machine learning
 - 🌱 Undergraduate student of Data Science
-- 🌱 **[Kaggle](https://www.kaggle.com/mtalhazafar)** Contributor
 - 🧠 I'm learning django
-- 📫 How to reach me: ...
+- 📧 You can contact me at**mtalhazafar32@gmail.com**
 - ⚡ In my free time, I trade forex.
