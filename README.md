@@ -14,42 +14,29 @@ Here are some ideas to get you started:
 - 📧 You can contact me at **mtalhazafar32@gmail.com**
 - ⚡ In my free time, I trade forex.
 
----
+
 ## My Skill Set 🛠️:
-<a href="https://github.com/arhamansari11">
+<a href="https://github.com/MTalhaZafar32">
 <div align="center">  
        <img src="https://skillicons.dev/icons?i=py,sklearn,html,css,mysql,git,github&theme=light" /> 
 </div>
 </a>
 
+
  ## Github Stats📈:
 <p align="center">
-    <a href="https://github.com/MTalhaZafar32">
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MTalhaZafar32&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MTalhaZafar32&langs_count=12&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
-    </a>
+<img height="140px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MTalhaZafar32&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&show_icons=true&include_all_commits=true&count_private=true"/>&nbsp&nbsp&nbsp
+ <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs?username=MTalhaZafar32&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" alt="languages graph"/>
 </p>
 
- <p align="center">
-   <a href="https://github.com/MTalhaZafar32"> 
-     <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=MTalhaZafar32&theme=algolia&hide_border=true" /> 
-   </a>  
 
+<h4 align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MTalhaZafar32&theme=gruvbox-duo&border_color=30363d" alt="MTalhaZafar32" /></h4>
+## Connect with me🤝:
 
-
-
-
-
-
-
-
-
-
-
-
-
-## Connect with Me
-
-📫 Feel free to reach out through [email](mailto:adetayoomotomiwa99@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/adetayo-omotomiwa-4150861b3/).
-
-Let's collaborate and create amazing projects together!
+<div align="center">
+    <a href="https://www.linkedin.com/in/m-talha-zafar-747949246/" target="_blank"><img src="https://img.shields.io/badge/-M%20Talha%20Zafar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a target="_blank" href="mailto:mtalhazafar32@gmail.com"><img src="https://img.shields.io/badge/-mtalhazafar32@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="https://lablab.ai/u/@Talha_Zafar" target="_blank"><img src="https://img.shields.io/badge/-LabLab Profile-3B5998?style=flat&logo=LabLab&logoColor=white"/></a>
+</div>
+<br>
+<p align="center">Let's collaborate and create amazing projects together!</p>
