@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<!--
+[![committers.top badge](https://user-badge.committers.top/pakistan_private/MTalhaZafar32.svg)](https://user-badge.committers.top/pakistan_private/MTalhaZafar32)
 **MTalhaZafar32/MTalhaZafar32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,4 +9,3 @@ Here are some ideas to get you started:
 - 🧠 I'm learning django
 - 📫 How to reach me: ...
 - ⚡ In my free time, I trade forex.
--->
