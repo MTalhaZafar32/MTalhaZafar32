@@ -25,17 +25,17 @@ Here are some ideas to get you started:
 
  ## Github Stats📈:
 <p align="center">
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api?username=MTalhaZafar32&show_icons=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0D1117&hide_border=true&show_icons=true" alt="MTalhaZafar32's GitHub stats" />
-</a>
+    <a href="https://github.com/MTalhaZafar32">
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MTalhaZafar32&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MTalhaZafar32&langs_count=12&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
+    </a>
 </p>
 
-
-<p align="center">
-<a href="#">
-<img src="https://streak-stats.demolab.com/?user=MTalhaZafar32&stroke=ffffff&background=0D1117&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="MTalhaZafar32's streak stats" />
-</a>
-</p>
+ <p align="center">
+   <a href="https://github.com/MTalhaZafar32"> 
+     <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=MTalhaZafar32&theme=algolia&hide_border=true" /> 
+   </a>  
+ </p 
 
 
 
